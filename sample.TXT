@@ -1,0 +1,5 @@
+f123,herring,2.1,fish,first,2021-9-25
+f234,potatoes,5.0,veggie,second,2021-9-23
+f567,pork,10,meat,third,2022-1-1
+f999,meat,5.1,fish,third,2021-10-3
+

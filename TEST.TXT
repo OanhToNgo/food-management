@@ -1,0 +1,4 @@
+The food list:
+FoodId=F123,FoodName=herring,Weight=2.1,FoodType=fish,FoodPlace=first,ExpiredDate=2021-09-25
+FoodId=F234,FoodName=potatoes,Weight=5.0,FoodType=veggie,FoodPlace=second,ExpiredDate=2021-09-23
+FoodId=F567,FoodName=pork,Weight=10.0,FoodType=meat,FoodPlace=third,ExpiredDate=2022-01-01
